@@ -1,1 +1,2 @@
-# Tidal marsh dynamics of Pacific and Atlantic coasts, Canada
+# Tidal marsh dynamics of Pacific and Atlantic coasts, Canada (Updated on May 12, 2026)
+This dataset provides annual tidal marsh extent maps for the Pacific and Atlantic coasts of Canada. The maps are generated using [DEtection and Characterization of cOastal tiDal wEtlands change algorithm (DECODE)]([https://drive.google.com/file/d/1K6FcabWRZmat1WQqWJvYCjYi3KMpi6Uz/view?usp=sharing](https://github.com/GERSL/DECODE/) and all available Landsat observations from 1985 to 2024 at 30 m spatial resolution.
