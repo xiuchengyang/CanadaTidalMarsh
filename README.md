@@ -1,8 +1,10 @@
 # Canadian tidal marsh dynamics, 1988–2023
 
+The statistics in this repository are based on our Canadian tidal-marsh maps, produced using [DECODE v2](https://github.com/xiuchengyang/DECODE_v2.0) and available to download from [Google Drive](https://drive.google.com/drive/folders/1TWbaCa5TZByWJ0GrmmRfGs0s8JqU5NVM?usp=sharing).
+
 Explore the [interactive Canada tidal marsh map](https://xiucheng.projects.earthengine.app/view/canadamarsh).
 
-The statistics in this repository are based on our Canadian tidal-marsh maps, produced using [DECODE v2](https://github.com/xiuchengyang/DECODE_v2.0) and available to download from [Google Drive](https://drive.google.com/drive/folders/1TWbaCa5TZByWJ0GrmmRfGs0s8JqU5NVM?usp=sharing). We combined these maps with protected and conserved area (PCA) boundaries and Global Human Modification (GHM) layers to examine marsh extent and change in relation to protection and human pressure. The resulting tables are in `Statistics`, covering individual pixels, PCAs, basins, ecoregions, and both coasts.
+We combined these maps with protected and conserved area (PCA) boundaries and Global Human Modification (GHM) layers to examine marsh extent and change in relation to protection and human pressure. The resulting tables are in `Statistics`, covering individual pixels, PCAs, basins, ecoregions, and both coasts.
 
 The MATLAB scripts in `Code` use these tables to reproduce the analyses for our Canada-wide study and save the figures in `Analysis_Figures`.
 
