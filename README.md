@@ -1,6 +1,6 @@
 # Canadian tidal marsh dynamics, 1988–2023
 
-The statistics in this repository are based on our Canadian tidal-marsh maps, produced using [DECODE v2](https://github.com/xiuchengyang/DECODE_v2.0) and available to download from [Google Drive](https://drive.google.com/drive/folders/1TWbaCa5TZByWJ0GrmmRfGs0s8JqU5NVM?usp=sharing).
+**The statistics in this repository are based on our Canadian tidal-marsh maps, produced using [DECODE v2](https://github.com/xiuchengyang/DECODE_v2.0) and available to download from [Google Drive](https://drive.google.com/drive/folders/1TWbaCa5TZByWJ0GrmmRfGs0s8JqU5NVM?usp=sharing).**
 
 Explore the [interactive Canada tidal marsh map](https://xiucheng.projects.earthengine.app/view/canadamarsh).
 
